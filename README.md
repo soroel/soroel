@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Soroel 👋
 
-<!--
-**soroel/soroel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+- 💬 Ask me about anything related to Python, JavaScript, and web development.
+- 📫 How to reach me: [sorophinenoel@gmail.com](mailto:sorophinenoel@gmail.com)
+- ⚡ Fun fact: I love silence.
+
+## 🛠️ My Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Express
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, Docker, AWS
+
+## 📈 GitHub Stats
+
+![Soroel's GitHub stats](https://github-readme-stats.vercel.app/api?username=soroel&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/soroel)
+
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Thank you for visiting my profile. Have a great day! 😊
