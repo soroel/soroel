@@ -1,4 +1,4 @@
-# Hi there, I'm Soroel 👋
+# Hi there, I'm Sorophine 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a bit about me:
 
