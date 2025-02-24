@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🛠️ My Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js, Express
+- **Frameworks & Libraries:** React, Node.js, Django, Flask
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Docker, AWS
 
