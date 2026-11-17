@@ -23,7 +23,7 @@ I’m a software engineer with a strong interest in **turning data into decision
 ### My terminal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/soroel//main/assets/terminal.svg" alt="Terminal animation" width="760" />
+  <img src="./assets/terminal.svg" alt="Terminal animation" width="760" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=soroel&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </div>
