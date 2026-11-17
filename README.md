@@ -9,18 +9,18 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I’m a software engineer with a strong interest in **turning data into decisions and ideas into products**. I’m especially drawn to the intersection of **engineering, data science, AI strategy, and innovation** — building solutions that are both technically strong and meaningful in the real world.
 
 - **Currently building:** Scalable software & AI-driven products
-- **Focus areas:** Applied Machine Learning, Data Architecture, & Product Strategy
+- **Focus areas:** Applied Machine Learning, Data Architecture & Product Strategy
 - **Philosophy:** Great technology bridges solid engineering with real human impact
-- **Open to collaborating on:** AI systems, data pipelines, and innovative product builds
+- **Open to collaborating on:** AI systems, data pipelines and innovative product builds
 
 ---
 
-### 💻 Live Terminal Snapshot
+### My terminal
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/soroel//main/assets/terminal.svg" alt="Terminal animation" width="760" />
