@@ -20,13 +20,17 @@ I’m a software engineer with a strong interest in **turning data into decision
 
 ---
 
-### My terminal
+
 
 <div align="center">
   <img src="./assets/terminal.svg" alt="Terminal animation" width="760" />
+  <br/><div align="center">
+  <img src="./assets/terminal.svg" alt="Terminal animation" width="760" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=soroel&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="380" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="380" />
 </div>
+
 
 ---
 
