@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Soroel+%F0%9F%91%8B;Software+Engineer;Data+Science+%26+Strategic+AI;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sorophine+%F0%9F%91%8B;Software+Engineer;Data+Science+%26+Strategic+AI;Turning+data+into+decisions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@ I’m a software engineer with a strong interest in **turning data into decision
 ### 💻 Live Terminal Snapshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/terminal.svg" alt="Terminal animation" width="760" />
+  <img src="https://raw.githubusercontent.com/soroel//main/assets/terminal.svg" alt="Terminal animation" width="760" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </div>
