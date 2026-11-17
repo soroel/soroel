@@ -1,70 +1,68 @@
-<!-- Animated Typing Header -->
+<!-- Animated Data Science Wave & Typing Header -->
 <div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+  <img src="https://vercel.app" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <strong>Software Engineer • Data Science • Strategic AI • Innovation</strong>
-</p>
-
----
-
-### 🚀 About Me
-
-I’m a software engineer with a strong interest in **turning data into decisions and ideas into products**. I’m especially drawn to the intersection of **engineering, data science, AI strategy, and innovation** — building solutions that are both technically strong and meaningful in the real world.
-
-- 🔭 **Currently building:** Scalable software & AI-driven products
-- 🧠 **Focus areas:** Applied Machine Learning, Data Architecture, & Product Strategy
-- 💡 **Philosophy:** Great technology bridges solid engineering with real human impact
-- 💬 **Open to collaborating on:** AI systems, data pipelines, and innovative product builds
-
----
-
-### 💻 Live Terminal Snapshot
-
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="soroel GitHub Terminal Stats" />
-  </a>
+  <img src="https://demolab.com" alt="Data Science Typing Animation" />
 </div>
 
 ---
 
-### 🛠️ Core Stack & Domains
+### 🧬 About Me
+
+I’m a software engineer with a strong passion for **data science**, **turning data into decisions**, and **ideas into products**. I thrive at the intersection of **software engineering, data science, AI strategy, and innovation** — designing analytical systems and intelligent models that are both technically rigorous and meaningful in the real world.
+
+- 📊 **What drives me:** Uncovering patterns in messy data and translating them into clear product and business strategy.
+- 🤖 **What I build:** End-to-end machine learning workflows, predictive models, data pipelines, and scalable software.
+- 🧠 **Strategic AI focus:** Bridging the gap between exploratory data science notebooks and reliable production engineering.
+- 🌱 **Always exploring:** Statistical modeling, applied LLMs, decision intelligence, and data storytelling.
+
+---
+
+### 💻 Interactive Data Science Terminal
+
+<div align="center">
+  <img src="./assets/ds-terminal.svg" alt="soroel Data Science Terminal Animation" />
+</div>
+
+---
+
+### 🧪 Data Science & Engineering Stack
 
 <div align="center">
 
-**Languages & Engineering**  
+**Data Science, Analytics & ML**  
 ![Python](https://shields.io)
-![TypeScript](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+![Scikit-Learn](https://shields.io)
+![PyTorch](https://shields.io)
+![Jupyter](https://shields.io)
+
+**Data Engineering, Databases & Deployment**  
+![PostgreSQL](https://shields.io)
 ![SQL](https://shields.io)
+![Docker](https://shields.io)
 ![Git](https://shields.io)
 
-**Data Science & AI**  
-![PyTorch](https://shields.io)
-![Pandas](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![Docker](https://shields.io)
-
 </div>
 
 ---
 
-### 📌 Featured Focus
+### 📐 How I Approach Problems
 
-| Domain | What I Do |
+| Stage | Focus & Execution |
 | :--- | :--- |
-| **Software Engineering** | Architecting reliable, maintainable applications and APIs from prototype to production. |
-| **Data Science** | Extracting actionable insights through exploratory analysis, modeling, and data pipelines. |
-| **Strategic AI** | Aligning AI capabilities with business goals to solve high-leverage real-world problems. |
+| **1. Data Discovery** | Exploratory data analysis (EDA), feature engineering, and hypothesis testing to understand the signal behind the noise. |
+| **2. Modeling & AI** | Selecting the right statistical or machine learning approach—balancing interpretability, accuracy, and latency. |
+| **3. Product Engineering** | Packaging models into clean APIs, automated pipelines, and intuitive user-facing tools. |
+| **4. Strategic Impact** | Measuring real-world outcomes and aligning AI solutions with long-term product goals. |
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://soroel/github.com"><img src="https://shields.io" alt="GitHub" /></a>
-  <a href="https://soroel/linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:sorophinenoel@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://shields.io" alt="Email" /></a>
 </p>
-
