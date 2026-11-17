@@ -23,7 +23,6 @@ I’m a software engineer with a strong interest in **turning data into decision
 
 
 <div align="center">
-  <img src="./assets/terminal.svg" alt="Terminal animation" width="760" />
   <br/><div align="center">
   <img src="./assets/terminal.svg" alt="Terminal animation" width="760" />
   <br/>
